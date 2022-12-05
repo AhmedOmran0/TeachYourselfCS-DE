@@ -1,2 +1,11 @@
 # TeachYourselfCS-DE
-A German translation of TeachYourselfCS | Eine deutsche Übersetzung von TeachYourselfCS
+
+## Lerne selber Informatik
+
+Eine deutsche Übersetzung von [TeachYourselfCS](https://teachyourselfcs.com).
+
+## Navigation
+
+- [Original](https://teachyourselfcs.com/)
+- [Deutsch](./TeachYourselfCS-DE.md)
+
