@@ -56,6 +56,28 @@ Wenn du an SICP keinen Spaß findest, versuche es mit *Composing Programs*. Wenn
 
 Abschließend eine Klarstellung: Dieser Leitfaden ist NICHT für absolute Programmieranfänger ausgelegt. Wir nehmen an, du bist bereits kompetent im Programmieren ohne Informatikhintergrund, und möchtest Wissenslücken schließen. Die Tatsache, dass wir einen Abschnitt über Programmierung eingefügt haben, ist lediglich eine Erinnerung daran, dass es noch mehr zu lernen geben kann. Für diejenigen, die noch nie programmiert haben, es aber gern tun würden, wäre vielleicht [dieser Leitfaden](https://www.reddit.com/r/learnprogramming/wiki/faq/#wiki_getting_started) der richtige.
 
-###Computerarchitektur
+### Computerarchitektur
+
+Computerarchitektur - manchmal auch "Computersysteme" oder "Computerorganisation" genannt - ist ein wichtiger erster Einblick in die Computertechnik unterhalb der Oberfläche von Software. Erfahrungsgemäß ist es das meist vernachlässigte Thema unter den autodidaktischen Ingenieur/innen.
+
+Unser Lieblingsbuch zur Einführung ist [Computer Systems: A Programmer's Perspective](http://csapp.cs.cmu.edu/3e/home.html), und ein typischer Einführungskurs in die Computerarchitektur, der auf dieses Buch stützt, würde das meiste aus Kapiteln 1-6 [abdecken](http://csapp.cs.cmu.edu/3e/courses.html).
+
+Wir lieben CS:APP für seinen praktischen, Programmierer-orientierten Ansatz. Obwohl das Buch weit nicht alles über Computerarchitektur abdeckt, ist es ein toller Ausgangspunkt für diejenigen, die in erster Linie Computersysteme verstehen wollen, um schnellere, effizientere und zuverlässigere Software zu schreiben.
+
+Für die, die eine sanftere Einführung in das Thema und ein Gleichgewicht zwischen Hardware- und Softwarefragen bevorzugen, schlagen wir "_The Elements of Computing Systems_" vor, auch bekannt als "Nand2Tetris". Dies ist ein ehrgeiziges Werk, das versucht, ein zusammenhängendes Verständnis zu vermitteln, wie alles in einem Computer funktioniert. Jedes Kapitel beschäftigt sich mit dem Aufbau eines Teils vom System, vom Schreiben elementarer Logikgatter in HDL, über CPU und Assembler bis hin zu einer Anwendung in der Größe eines Tetris-Spiels.
+
+Wir empfehlen, die ersten sechs Kapitel des Buches und die zugehörigen Projekte durchzuarbeiten. Dies wir dein Verständnis über den Zusammenhang der Maschinenarchitektur und der darauf laufenden Software weiterentwickeln.
+
+Die erste Hälfte des Buches (und alle dazugehörigen Projekte) sind kostenlos auf der [Nand2Tetris Webseite](https://www.nand2tetris.org/) verfügbar. Es ist ebenso als [Coursera-Kurs mit begleitenden Videos](https://www.coursera.org/learn/build-a-computer) vorhanden.
+
+Das Bestreben nach Einfachheit und Kohärenz von Nand2Tetris geht auf Kosten der Tiefe. Insbesondere fehlen zwei sehr wichtige Konzepte der modernen Computerarchitektur, nämlich Pipelining und Speicherhierarchie, weitgehend in diesem Text.
+
+Sobald du dich mit dem Inhalt von Nand2Tetris vertraut gemacht hast, empfehlen wir, entweder zu CS:APP zurückzukehren, oder ["Computer Organizsation and Design"](https://www.amazon.com/Computer-Organization-Design-Fifth-Architecture/dp/0124077269?pldnSite=1) von Patterson und Hennessy in Erwägung zu ziehen, ein ausgezeichnetes und mittlerweile klassisches Buch. Nicht jeder Abschnitt vom Buch ist essenziell, wir schlagen vor, [Kurs CS61C](https://inst.eecs.berkeley.edu/~cs61c/sp15/) "Great Ideas in Computer Architecture" von Berkeley für ausgewählte Lektüren zu verfolgen. Die Vorlesungsskripten und Übungen sind online verfügbar, und die vergangenen Vorlesungen befinden sich [auf dem Internet Archive](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iCl2-D-FS5mk0jFF6cYSJs_).
+
+> Hardware ist die Plattform.
+_- – Mike Acton, Engine Direktor von Insomniac Games_
+([Siehe seinen CppCon Vortrag an](https://www.youtube.com/watch?v=rX0ItVEVjHc))
+
+### Algorithmen und Datenstrukturen
 
 (In Bearbeitung)
