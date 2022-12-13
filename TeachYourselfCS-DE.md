@@ -17,7 +17,7 @@ Lerne alle neun unten aufgeführten Themen etwa in der gegebenen Reihenfolge mit
 | --------------                                                          | ---------------                                                                                                                                                              | ----                                                          | --------------                      |
 | **[Programmierung](#programmierung)**                                   | Sei nicht die Person, die etwas wie Rekursion "nie ganz verstanden" hat.                                                                                                     | *Structure and Interpretation of Computer Programs*           | Berkeley CS 61A von Brian Harvey    |
 | **[Computerarchitektur](#computerarchitektur)**                         | Ohne solides mentales Modell dafür, wie Computer tatsächlich funktionieren, werden all deine höhere Abstraktionen brüchig sein.                                              | *Computer Systems: A Programmer's Perspective*                | Berkeley CS 61C                     |
-| **[Algorithmen und Datenstrukturen](#algorithmne-und-datenstrukturen)** | Wenn du nicht weißt, wie du allgegenwärtige Datenstrukturen wie Stapel, Warteschlangen, Bäume und Graphen verwenden sollst, wirst du schwierige Probleme nicht lösen können. | *The Algorithm Design Manual*                                 | Vorlesungen von Steven Skiena       |
+| **[Algorithmen und Datenstrukturen](#algorithmen-und-datenstrukturen)** | Wenn du nicht weißt, wie du allgegenwärtige Datenstrukturen wie Stapel, Warteschlangen, Bäume und Graphen verwenden sollst, wirst du schwierige Probleme nicht lösen können. | *The Algorithm Design Manual*                                 | Vorlesungen von Steven Skiena       |
 | **[Mathematik für Informatik](#mathematik-fuer-informatik)**            | Informatik ist im Grunde ein Zweig der angewandten Mathematik, also wir dir das Mathe lernen einen Wettbewerbsvorteil verschaffen.                                           | *Mathematics for Computer Science*                            | MIT 6.042J von Tom Leighton         |
 | **[Betriebssysteme](#betriebssysteme)**                                 | Der Großteil von Code, den du schreibst, wird vom einem Betriebssystem ausgeführt. Du solltest also wissen, wie diese Systeme zusammenwirken.                                | *Operating Systems: Three Easy Pieces*                        | Berkeley CS 162                     |
 | **[Computernetzwerke](#computernetzwerke)**                             | Das Internet stellte sich als große Sache heraus. Lerne, wie es funktioniert, um sein volles Potenzial zu erschließen.                                                       | *Computer Networking: A Top-Down Approach*                    | Stanford CS 144                     |
@@ -75,9 +75,29 @@ Das Bestreben nach Einfachheit und Kohärenz von Nand2Tetris geht auf Kosten der
 Sobald du dich mit dem Inhalt von Nand2Tetris vertraut gemacht hast, empfehlen wir, entweder zu CS:APP zurückzukehren, oder ["Computer Organizsation and Design"](https://www.amazon.com/Computer-Organization-Design-Fifth-Architecture/dp/0124077269?pldnSite=1) von Patterson und Hennessy in Erwägung zu ziehen, ein ausgezeichnetes und mittlerweile klassisches Buch. Nicht jeder Abschnitt vom Buch ist essenziell, wir schlagen vor, [Kurs CS61C](https://inst.eecs.berkeley.edu/~cs61c/sp15/) "Great Ideas in Computer Architecture" von Berkeley für ausgewählte Lektüren zu verfolgen. Die Vorlesungsskripten und Übungen sind online verfügbar, und die vergangenen Vorlesungen befinden sich [auf dem Internet Archive](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iCl2-D-FS5mk0jFF6cYSJs_).
 
 > Hardware ist die Plattform.
-_- – Mike Acton, Engine Direktor von Insomniac Games_
+
+_– Mike Acton, Engine Direktor von Insomniac Games_
+
 ([Siehe seinen CppCon Vortrag an](https://www.youtube.com/watch?v=rX0ItVEVjHc))
 
 ### Algorithmen und Datenstrukturen
+
+Wir sind uns mit jahrzehntelanger Weisheit einig, dass Vertrautheit mit gängigen Algorithmen und Datenstrukturen eine der meist ermächtigenden Aspekte der Informatikausbildung darstellt. Dies ist auch eine großartige Stelle, die eigene Problemlösungsfähigkeit zu trainieren, die sich in allen anderen Studienbereichen auszahlen wird.
+
+Es sind Hunderte von Büchern vorhanden, aber unser Favorit ist [The Algorithm Design Manual](https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1848000693/?pldnSite=1) von Steven Skiena. Er liebt offensichtlich das algorithmische Lösen von Problemen und schafft es typischerweise, ähnliche Begeisterung bei seinen Studierenden und Leser/innen zu wecken. Unserer Meinung nach sind die zwei häufiger Empfohlenen Texte (CLRS und Sedgewick) tendenziell zu beweislastig für diejenigen, die den Stoff vorwiegend als Hilfe bei der praktischen Problemlösung lernen.
+
+Für die, die Videovorlesungen bevorzugen, hat [Skiena großzügigerweise seine online gestellt](https://www3.cs.stonybrook.edu/~skiena/373/videos/). Wir mögen auch Tim Roughgardens Kurs sehr, verfügbar [auf Coursera](https://www.coursera.org/specializations/algorithms) und [anderswo](http://timroughgarden.org/videos.html). Ob du den Vorlesungsstil von Skiena oder Roughgarden bevorzugst ist eine Frage der persönlichen Präferenz. In der Tat gibt es Dutzende von guten Alternativen. Wenn du also eine findest, die dir gefällt, empfehlen wir, bei dieser zu bleiben!
+
+Zur Übung bevorzugen wir, dass Studierende Aufgaben auf [Leetcode](https://leetcode.com/) lösen. Diese sind tendenziell interessante Probleme mit ordentlichen begleitenden Lösungen und Diskussionen. Sie helfen auch, deinen Fortschritt anhand von Fragen zu messen, die häufig in technischen Interviews bei kompetitiven Softwareunternehmen gestellt werden. Wir empfehlen, etwa 100 beliebige leetcode Aufgaben im Rahmen des Studiums zu lösen.
+
+Abschließend empfehlen wir [How to Solve it](https://www.amazon.com/How-Solve-Mathematical-Princeton-Science/dp/069116407X/?pldnSite=1) als hervorragenden und einzigartigen Leitfaden für die allgemeine Problemlösung, der für die Informatik ebenso anwendbar ist wir für die Mathematik.
+
+
+
+> Ich habe nur eine Methode, die ich ausgiebig empfehle -- Denke nach bevor du schreibst.
+
+_— Richard Hamming_
+
+### Mathematik für Informatik
 
 (In Bearbeitung)
