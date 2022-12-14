@@ -100,7 +100,11 @@ _— Richard Hamming_
 
 ### Mathematik für Informatik
 
-In Weise ist die Informatik ein verwachsener Zweig der angewandten Mathematik. Obwohl viele Softwareingenieur/innen versuchen - mit mehr oder weniger Erfolg - dies zu ignorieren, ermutigen wir dich dazu, dich mit direktem Studium darauf einzulassen. Wenn du dies erfolgreich tust, hat du gegenüber denen, die es nicht tun, einen enormen Wettbewerbsvorteil.
+> Wenn Leute nicht glauben, dass Mathematik einfach ist, liegt es nur daran, dass sie nicht wissen, wie kompliziert das Leben ist.
+
+_-John von Neumann-_
+
+In gewisser Weise ist die Informatik ein verwachsener Zweig der angewandten Mathematik. Obwohl viele Softwareingenieur/innen versuchen - mit mehr oder weniger Erfolg - dies zu ignorieren, ermutigen wir dich dazu, dich mit direktem Studium darauf einzulassen. Wenn du dies erfolgreich tust, hat du gegenüber denen, die es nicht tun, einen enormen Wettbewerbsvorteil.
 
 Der relevanteste Bereich der Mathematik für Informatik wir allgemein "diskrete Mathematik" genannt, wobei "diskret" das Gegenteil von "stetig" ist, und eine Sammlung interessanter mathematischer Themen außerhalb der Infinitesimalrechnung darstellt. Mit dieser vagen Definition macht es wenig Sinn, die gesamte Breite der "diskreten Mathematik" abzudecken. Ein realistischeres Ziel ist es, ein funktionierendes Verständnis der Logik, Kombinatorik und Wahrscheinlichkeitsrechnung, Mengentheorie, Graphentheorie, und etwas Zahlentheorie für die Kryptographie aufzubauen. Lineare Algebra ist ein zusätzliches lohnendes Studiengebiet, angesichts ihrer Bedeutung für Computergraphik und maschinelles Lernen.
 
