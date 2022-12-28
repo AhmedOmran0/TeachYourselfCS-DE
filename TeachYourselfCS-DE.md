@@ -116,4 +116,14 @@ Für lineare Algebra schlagen wir vor, mit der Videoreihe [Essence of linear alg
 
 ### Betriebssysteme
 
+[Operating System Concepts](https://www.amazon.com/dp/1118063333/) (das "Dinosaurierbuch") und [Modern Operating Systems](https://www.amazon.com/dp/013359162X/) sind die Klassiker über Betriebssysteme. Beide haben aufgrund ihrer mangelnden Klarheit und allgemeinen Unfreundlichkeit für Studierende Kritik geerntet.
+
+_Operating Systems: Three Easy Pieces_ ist eine gute Alternative, die [online kostenlos verfügbar](https://pages.cs.wisc.edu/~remzi/OSTEP/) ist. Wir schätzen insbesondere die Struktur und Lesbarkeit des Buches, und halten die Übungsaufgaben für lohnend.
+
+Nach OSTEP, empfehlen wir dir, dich mit den Designentscheidungen bestimmter Betriebssysteme zu befassen, mit Büchern im Stil von "{Betriebssystemname} Internals", wie z.B. [Lions' Commentary on Unix](https://www.amazon.com/Lions-Commentary-Unix-John/dp/1573980137/), [Design and Implementation of the FreeBSD Operating System](https://www.amazon.com/Design-Implementation-FreeBSD-Operating-System/dp/0321968972/), und [Mac OS X Internals](https://www.amazon.com/Mac-OS-Internals-Systems-Approach/dp/0321278542/). Für Linux empfehlen wir Robert Loves fantastisches [https://www.amazon.com/Mac-OS-Internals-Systems-Approach/dp/0321278542/](Linux Kernel Development).
+
+Eine gute Art, dein Verständnis über Betriebssysteme zu festigen, ist den Quellcode eines kleinen Kernels zu lesen und neue Funktionen hinzuzufügen. Eine Möglichkeit ist [xv6](https://pdos.csail.mit.edu/6.828/2016/xv6.html), eine Portierung von Unix V6 auf ANSI C und x86, die für einen Kurs am MIT gepflegt wird. OSTEP hat einen Anhang mit potentiellen [xv6 Praktika](https://pages.cs.wisc.edu/~remzi/OSTEP/lab-projects-xv6.pdf) voller großartiger Ideen für potentielle Projekte.
+
+### [Computernetzwerke](Computernetzwerke)
+
 (In Bearbeitung)
