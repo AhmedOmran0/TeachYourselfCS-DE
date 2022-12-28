@@ -126,4 +126,16 @@ Eine gute Art, dein Verständnis über Betriebssysteme zu festigen, ist den Quel
 
 ### [Computernetzwerke](Computernetzwerke)
 
+> Du kannst nicht in die Kristallkugel blicken und die Zukunft sehen. Was das Internet in Zukunft wird, ist das, was die Gesellschaft daraus macht.
+
+— _Bob Kahn_
+
+Da sich ein Großteil der Softwareentwicklung an Webservern und -clients bezieht, sind Computernetzwerke einer der unmittelbar nützlichsten Bereiche der Informatik. Unsere autodidaktischen Studierende, die sich methodisch mit Netzwerken befassen, stellen fest, dass sie endlich Begriffe, Konzepte und Protokolle verstehen, von denen sie jahrelang umgeben waren.
+
+Unser Lieblingsbuch zum Thema ist [Computer Networking: A Top-Down Approach](https://www.amazon.com/Computer-Networking-Top-Down-Approach-7th/dp/0133594149/?pldnSite=1). Die kleinen Projekte und Übungen im Buch zahlen sich sehr aus, und wir mögen insbesondere die "Wireshark Praktika", die sie großzügigerweise [online zur Verfügung gestellt haben](http://www-net.cs.umass.edu/wireshark-labs/).
+
+Für diejenigen, die Videovorlesungen bevorzugen, schlagen wir Stanfords Kurs [Introduction to Computer Networking](https://www.youtube.com/playlist?list=PLoCMsyE1cvdWKsLVyf6cPwCLDIZnOj0NS), damals verfügbar über Stanfords MOOC-Plattform Lagunita, aber leider jetzt nur noch als inoffizielle Playlisten auf YouTube verfügbar ist.
+
+### Datenbanken
+
 (In Bearbeitung)
