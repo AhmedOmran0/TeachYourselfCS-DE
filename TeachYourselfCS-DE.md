@@ -153,4 +153,18 @@ Zum Abschluss ist Datenmodellierung ein vernachlässigter und schlecht unterrich
 
 ### Sprachen und Compiler
 
+> Sei kein/e Schema-F-Programmierer/in. Stattdessen, baue Werkzeug für Benutzer/innen und andere Programmierer/innen. Beachte die Geschichte der Textil- und Stahlindustrie: Willst du Maschinen und Werkzeug bauen, oder willst du diese bedienen?
+
+_-Ras Bodik am Anfang seines Compilerkurses_
+
+Die meisten Programmierer/innen lernen Sprachen, während die meisten Informatiker/innen _über_ Sprachen lernen. Dies verschafft Informatiker/innen einen deutlichen Vorteil gegenüber Programmierer/innen, sogar im Bereich des Programmierens! Ihr Wissen lässt sich verallgemeinern, sie können die Funktionsweise einer neuen Sprache tiefer und schneller verstehen als diejenigen, die lediglich bestimmten Sprachen gelernt haben.
+
+Unser empfohlener Einführungsbuch ist das exzellente [Crafting Interpreters](https://craftinginterpreters.com/contents.html) von Bob Nystrom, online kostenlos verfügbar. Es ist gut gegliedert, hochgradig unterhaltsam, und gut geeignet für diejenigen, deren Hauptziel es ist, Sprachen und Sprachwerkzeuge einfach besser zu verstehen. Wir schlagen vor, dir die Zeit zu nehmen, das komplette Buch durchzuarbeiten, und dich an den "Herausforderungen" zu versuchen, die dein Interesse wecken.
+
+Eine traditionellere Empfehlung ist [Compilers: Principles, Techniques & Tools](https://www.amazon.com/Compilers-Principles-Techniques-Tools-2nd/dp/0321486811?pldnSite=1), auch bekannt als "das Drachenbuch". Leider ist es nicht für das Selbststudium gedacht, sondern eher für Dozenten, die sich 1-2 Semester an Themen für ihre Kurse zusammenstellen.
+
+Solltest du dich für das Drachenbuch entscheiden, es ist fast unabdingbar, die Themen herauszupicken, am besten mit Hilfe eines Mentors. Wenn schon, dann empfehlen sogar, das Drachenbuch als ergänzende Referenz für eine Videovorlesungsreihe zu verwenden. Unsere empfohlene Reihe ist die von [Alex Aiden auf edX](https://www.edx.org/course/compilers).
+
+### Verteilte Systeme
+
 (In Bearbeitung)
