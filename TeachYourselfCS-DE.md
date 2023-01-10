@@ -1,6 +1,6 @@
 # Lerne selber Informatik
 
-Als autodidaktische/r Ingenieur/in oder Bootcamp Absolvent/in schuldest du es dir selber, Informatik zu lernen. Zum Glück kannst du dir eine erstklassige Informatikausbildung verschaffen, ohne Jahre und ein kleines Vermögen in ein Studium zu investieren 💸.
+Als autodidaktische/r Ingenieur/in oder Bootcamp-Absolvent/in schuldest du es dir selber, Informatik zu lernen. Zum Glück kannst du dir eine erstklassige Informatikausbildung verschaffen, ohne Jahre und ein kleines Vermögen in ein Studium zu investieren 💸.
 
 Es gibt da draußen zahlreiche Ressourcen, manche davon besser als andere. Du brauchst jedoch nicht nochmal eine Liste von "200+ kostenlosen Online-Kursen". Du brauchst die Antwort auf folgende Fragen:
 
@@ -27,7 +27,7 @@ Lerne alle neun unten aufgeführten Themen etwa in der gegebenen Reihenfolge mit
 
 ## Immer noch zu viel?
 
-Ist die Vorstellung zu überwältigend, 9 Themen über mehrere Jahre selber durcharbeiten zu müssen, empfehlen wir, du fokussierst dich nur auf zwei Bücher: *Computer Systems: A Programmer's Perspective* und *Designing Data Intensive Applications*. Erfahrungsgemäß bieten diese zwei Bücher eine unglaublich hohe Rendite auf die investierte Zeit, insbesondere für autodidaktische Ingenieur/innen und Bootcamp Absolvent/innen, die an vernetzten Anwendungen arbeiten. Sie können auch eine "Einstiegsdroge" für die weiteren oben aufgelisteten Themen dienen.
+Ist die Vorstellung zu überwältigend, 9 Themen über mehrere Jahre selber durcharbeiten zu müssen, empfehlen wir, du fokussierst dich nur auf zwei Bücher: *Computer Systems: A Programmer's Perspective* und *Designing Data Intensive Applications*. Erfahrungsgemäß bieten diese zwei Bücher eine unglaublich hohe Rendite auf die investierte Zeit, insbesondere für autodidaktische Ingenieur/innen und Bootcamp-Absolvent/innen, die an vernetzten Anwendungen arbeiten. Sie können auch eine "Einstiegsdroge" für die weiteren oben aufgelisteten Themen dienen.
 
 ## Warum Informatik lernen?
 
@@ -166,5 +166,53 @@ Eine traditionellere Empfehlung ist [Compilers: Principles, Techniques & Tools](
 Solltest du dich für das Drachenbuch entscheiden, es ist fast unabdingbar, die Themen herauszupicken, am besten mit Hilfe eines Mentors. Wenn schon, dann empfehlen sogar, das Drachenbuch als ergänzende Referenz für eine Videovorlesungsreihe zu verwenden. Unsere empfohlene Reihe ist die von [Alex Aiden auf edX](https://www.edx.org/course/compilers).
 
 ### Verteilte Systeme
+
+Während Computer zahlreicher geworden sind, haben sie sich auch verbreitet. Wo früher Unternehmen immer größere Mainframes angeschafft haben, ist es heute üblich, dass selbst sehr kleine Anwendungen auf mehreren Maschinen laufen. Bei verteile Systeme beschäftigt man sich mit den damit verbundenen Kompromissen.
+
+Unser empfohlenes Buch für das Selbststudium ist [Designing Data-Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable-ebook/dp/B06XPJML5D/?pldnSite=1). Viel besser als ein traditionelles Lehrbuch, DDIA ist ein sehr lesbares Buch, für Praktiker entworfen, das trotzdem dabei weder Tiefe oder Gründlichkeit opfert.
+
+Für diejenigen, die eine traditionellere Lektüre suchen, oder eine bevorzugen, die online kostenlos verfügbar ist, schlagen wir [Distributed Systems, 3. Auflage](https://www.distributed-systems.net/index.php/books/ds3/) von Maarten van Steen und Andrew Tanenbaum vor.
+
+Für die, die Videos bevorzugen, ist ein hervorragender Kurs mit online verfügbaren Videos der [Kurs 6.824 am MIT](https://www.youtube.com/watch?v=cQP8WApzIQQ&list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB), einen Masterkurs von Robert Morris mit [zugehörigem Skript](https://pdos.csail.mit.edu/6.824/schedule.html).
+
+Unabhängig von der Auswahl des Lehrbuches oder Sekundärquellen erfordert das Studium verteilter Systeme zwingend das Lesen von Papern. Eine gute Liste befindet sich [hier](http://dsrg.pdos.csail.mit.edu/papers/), und wir empfehlen wärmstens, deinem örtlichen Verband von [Papers We Love](https://paperswelove.org/) beizutreten.
+
+### Häufig gestellte Fragen
+
+#### Wer ist die Zielgruppe dieses Leitfadens?
+
+Wir gehen davon aus, du bist autodidaktische/r Softwareingenieur/in, Bootcamp-Absolvent/in oder frühreife/r Schüler/in, oder schon am Studieren und möchtest die formale Ausbildung durch Selbststudium ergänzen. Die Frage, wann diese Reise anzutreten ist, ist eine rein persönliche, aber die meisten Leute profitieren eher davon, etwas Berufserfahrung zu sammeln, bevor sie zu tief in die Informatiktheorie abtauchen. Zum Beispiel fällt uns auf, dass Studierende sehr gerne etwas über Datenbanksysteme lernen, wenn sie bereits beruflich mit Datenbanken gearbeitet haben, oder über Computernetzwerke, wenn sie am einen oder anderen Webprojekt gearbeitet haben.
+
+#### Was ist mit künstlicher Intelligenz/Computergraphik/Lieblingsthema-X?
+
+Wir haben versucht, unsere Liste auf Informatikthemen einzuschränken, die alle praktizierenden Softwareingenieur/innen, unabhängig von der Spezialisierung oder Industriebranche, kennen sollten, allerdings mit Schwerpunkt auf Systemen. Erfahrungsgemäß erzielen diese Themen die höchste Rendite für die überwältigende Mehrheit autodidaktischer Ingenieur/innen und Bootcamp-Absolvent/innen, und legen ein starkes Fundament für weitere Studien. Folglich bist du dann viel besser aufgestellt, Lehrbücher und Paper aufzugreifen und die Kernkonzepte ohne viel Betreuung zu lernen. Hier sind unsere empfohlenen Ausgangspunkte für einige übliche "Wahlfächer":
+
+* Für künstliche Intelligenz: Mache den Kurs [Einführung in die KI von Berkeley](http://ai.berkeley.edu/home.html), schaue die Videos an und bearbeite die exzellenten Pacman-Projekte. Als Lehrbuch, nehme Artificial Intelligence: A Modern Approach von Russell und Norvig her.
+* Für maschinelles Lernen: Mache den Kurs von Andrew Ng auf Coursera. Sei geduldig und stelle sicher, dass du die Grundlagen verstehst bevor du dich auf heiße neue Themen wie Deep Learning stürzt.
+* Für Computergraphik: Arbeite dich durch das Material von [CS 184 in Berkeley](inst.eecs.berkeley.edu/~cs184/fa12/onlinelectures.html) und verwende [Computer Graphics: Principles and Practice](https://www.amazon.com/Computer-Graphics-Principles-Practice-3rd/dp/0321399528) als Lehrbuch.
+
+#### Wie streng ist die vorgeschlagene Reihenfolge?
+
+#### Wie vergleicht sich das hier mit Lehrplänen der Open Source Society oder freeCodeCamp?
+
+#### Was ist mit Sprache X?
+
+#### Was ist mit der trendigen Technologie X?
+
+#### Warum empfehlt ihr immer noch SICP?
+
+#### Warum empfehlt ihr immer noch das Drachenbuch?
+
+#### Wie komme ich an günstige Lehrbücher heran?
+
+#### Wer hat das hier zusammengestellt?
+
+
+### Wer ist der Übersetzer?
+
+Ich heiße Ahmed Omran, bin promovierter Physiker und Softwareingenieur für maschinelles Lernen bei Google in München. Ich fand diesen Leitfaden beim Übergang von Physik zu Software äußerst nützlich, und hoffe ihr findet ihn genauso hilfreich. Verbesserungsvorschläge sind jederzeit willkommen.
+
+Frohes Lernen!
+
 
 (In Bearbeitung)
