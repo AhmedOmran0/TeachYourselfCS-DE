@@ -1,5 +1,4 @@
 # Lerne selber Informatik
-
 Als autodidaktische/r Ingenieur/in oder Bootcamp-Absolvent/in schuldest du es dir selber, Informatik zu lernen. Zum Glück kannst du dir eine erstklassige Informatikausbildung verschaffen, ohne Jahre und ein kleines Vermögen in ein Studium zu investieren 💸.
 
 Es gibt da draußen zahlreiche Ressourcen, manche davon besser als andere. Du brauchst jedoch nicht nochmal eine Liste von "200+ kostenlosen Online-Kursen". Du brauchst die Antwort auf folgende Fragen:
@@ -29,7 +28,7 @@ Lerne alle neun unten aufgeführten Themen etwa in der gegebenen Reihenfolge mit
 
 Ist die Vorstellung zu überwältigend, 9 Themen über mehrere Jahre selber durcharbeiten zu müssen, empfehlen wir, du fokussierst dich nur auf zwei Bücher: *Computer Systems: A Programmer's Perspective* und *Designing Data Intensive Applications*. Erfahrungsgemäß bieten diese zwei Bücher eine unglaublich hohe Rendite auf die investierte Zeit, insbesondere für autodidaktische Ingenieur/innen und Bootcamp-Absolvent/innen, die an vernetzten Anwendungen arbeiten. Sie können auch eine "Einstiegsdroge" für die weiteren oben aufgelisteten Themen dienen.
 
-## Warum Informatik lernen?
+## Warum Informatik lernen?<a name="warum"></a>
 
 Es gibt zwei Arten von Softwareingenieur/innen: Die einen, die Informatik ausreichend gut verstehen, um anspruchsvolle, innovative Arbeit zu leisten, und die anderen, die nur über die Runden kommen, weil sie mit einigen high-level Tools vertraut sind.
 
@@ -193,24 +192,34 @@ Wir haben versucht, unsere Liste auf Informatikthemen einzuschränken, die alle 
 
 #### Wie streng ist die vorgeschlagene Reihenfolge?
 
+Realistisch gesehen überlappen sich alle diese Fächer erheblich, und beziehen sich zyklisch aufeinander. Nehmen wir zum Beispiel die Beziehung zwischen diskreter Mathematik und Algorithmen: Mathematik zuerst zu lernen hilft dir dabei, Algorithmen tiefer zu analysieren und zu verstehen, aber zuerst Algorithmen zu lernen gibt größere Motivation und besseren Kontext für diskrete Mathematik. Idealerweise greifst du diese beiden Themen mehrfach im Laufe deiner Karriere auf.
+
+Von daher ist unsere vorgeschlagene Reihenfolge hauptsächlich dazu da, deinen Einstieg zu erleichtern. Hast du einen triftigen Grund, eine andere Reihenfolge zu bevorzugen, dann mach das. Die wichtigsten "Vorkenntnisse" unserer Meinung nach sind: Computerarchitektur vor Betriebssystemen oder Datenbanken, und Netzwerke und Betriebssysteme vor verteilten Systemen.
+
 #### Wie vergleicht sich das hier mit Lehrplänen der Open Source Society oder freeCodeCamp?
 
+Als dieser Leitfaden zuerst in 2016 verfasst wurde, hatte der [Leitfaden von OSS](https://github.com/ossu/computer-science) zu viele Themen, schlug für viele davon minderwertige Quellen vor und gab keine Begründung oder Anleitung dafür, warum und welche Aspekte bestimmter Kurse wertvoll wären. Wir haben uns bemüht, die Kursliste auf die zu beschränken, die du als Softwareingenieur/in, unabhängig vom Fachgebiet, wirklich kennen solltest, und die dir helfen, zu verstehen, warum jeder Kurs empfohlen wurde. In den darauffolgenden Jahren hat sich der OSS Leitfaden verbessert, aber wir sind immer noch der Meinung, dieser hier biete einen klareren, zusammenhängenderen Weg.
+
+FreeCodeCamp konzentriert sich hauptsächlich aufs Programmieren, nicht auf Informatik. Warum du vielleicht Informatik lernen möchtest, steht [oben](#warum). Wenn du neu in der Programmierung bist, empfehlen wir, diese zu priorisieren und in 1-2 Jahren zu diesem Leitfaden zurückzukehren.
+
 #### Was ist mit Sprache X?
+
+Eine bestimmte Programmiersprache zu lernen befindet sich auf einer ganz anderen Ebene als das Lernen eines Informatikbereichs. Das Lernen einer Sprache ist viel _einfacher_ und viel _weniger wertvoll_. Wenn du bereits ein paar Sprachen kennst, empfehlen wir stark, einfach diesen Leitfaden zu folgen, und die Lücken durch das Lernen von Sprachen füllen, oder dieses auf später zu verschieben. Wenn du das Programmieren gut gelernt hast (z.B durch _Structure and Interpretation of Computer Languages_), und vor allem wenn du Compiler gelernt hast, sollte es kaum mehr als ein Wochenende erfordern, die Grundlagen einer neuen Sprache zu lernen, woraufhin du dich mit den Bibliotheken/Werkzeugen/dem Ökosystem vertraut machen kannst.
 
 #### Was ist mit der trendigen Technologie X?
 
 #### Warum empfehlt ihr immer noch SICP?
 
-#### Warum empfehlt ihr immer noch das Drachenbuch?
+## Warum empfehlt ihr immer noch das Drachenbuch?
 
-#### Wie komme ich an günstige Lehrbücher heran?
+## Wie komme ich an günstige Lehrbücher heran?
 
-#### Wer hat das hier zusammengestellt?
+## Wer hat das hier zusammengestellt?
 
 
 ### Wer ist der Übersetzer?
 
-Ich heiße Ahmed Omran, bin promovierter Physiker und Softwareingenieur für maschinelles Lernen bei Google in München. Ich fand diesen Leitfaden beim Übergang von Physik zu Software äußerst nützlich, und hoffe ihr findet ihn genauso hilfreich. Verbesserungsvorschläge sind jederzeit willkommen.
+Ich heiße [Ahmed Omran](https://www.linkedin.com/in/ahmed-omran-5a1933129/), bin promovierter Physiker und Softwareingenieur für maschinelles Lernen bei Google in München. Ich fand diesen Leitfaden beim Übergang von Physik zu Software äußerst nützlich, und hoffe ihr findet ihn genauso hilfreich. Verbesserungsvorschläge sind jederzeit willkommen.
 
 Frohes Lernen!
 
