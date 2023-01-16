@@ -32,7 +32,7 @@ Ist die Vorstellung zu überwältigend, 9 Themen über mehrere Jahre selber durc
 
 Es gibt zwei Arten von Softwareingenieur/innen: Die einen, die Informatik ausreichend gut verstehen, um anspruchsvolle, innovative Arbeit zu leisten, und die anderen, die nur über die Runden kommen, weil sie mit einigen high-level Tools vertraut sind.
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The global SMS system does around 20bn messages a day. WhatsApp is now doing 42bn. With 57 engineers. <a href="https://t.co/zZrtSIzhlR">pic.twitter.com/zZrtSIzhlR</a></p>&mdash; Benedict Evans (@benedictevans) <a href="https://twitter.com/benedictevans/status/694342874729545729?ref_src=twsrc%5Etfw">February 2, 2016</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr" align="right">The global SMS system does around 20bn messages a day. WhatsApp is now doing 42bn. With 57 engineers. <a href="https://t.co/zZrtSIzhlR">pic.twitter.com/zZrtSIzhlR</a></p>&mdash; Benedict Evans (@benedictevans) <a href="https://twitter.com/benedictevans/status/694342874729545729?ref_src=twsrc%5Etfw">February 2, 2016</a></blockquote>
 
 [<img align="right" src="images/1_bilotta-tweet.png">](https://twitter.com/jenna/status/838161631662092289)
 
@@ -139,7 +139,7 @@ Nach OSTEP, empfehlen wir dir, dich mit den Designentscheidungen bestimmter Betr
 
 Eine gute Art, dein Verständnis über Betriebssysteme zu festigen, ist den Quellcode eines kleinen Kernels zu lesen und neue Funktionen hinzuzufügen. Eine Möglichkeit ist [xv6](https://pdos.csail.mit.edu/6.828/2016/xv6.html), eine Portierung von Unix V6 auf ANSI C und x86, die für einen Kurs am MIT gepflegt wird. OSTEP hat einen Anhang mit potentiellen [xv6 Praktika](https://pages.cs.wisc.edu/~remzi/OSTEP/lab-projects-xv6.pdf) voller großartiger Ideen für potentielle Projekte.
 
-### [Computernetzwerke](Computernetzwerke)
+### Computernetzwerke
 
 [<img align="right" src="images/7_top-down.jpg">](https://www.amazon.com/Computer-Networking-Top-Down-Approach-7th/dp/0133594149/?pldnSite=1)
 
