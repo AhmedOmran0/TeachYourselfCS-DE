@@ -32,15 +32,23 @@ Ist die Vorstellung zu überwältigend, 9 Themen über mehrere Jahre selber durc
 
 Es gibt zwei Arten von Softwareingenieur/innen: Die einen, die Informatik ausreichend gut verstehen, um anspruchsvolle, innovative Arbeit zu leisten, und die anderen, die nur über die Runden kommen, weil sie mit einigen high-level Tools vertraut sind.
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The global SMS system does around 20bn messages a day. WhatsApp is now doing 42bn. With 57 engineers. <a href="https://t.co/zZrtSIzhlR">pic.twitter.com/zZrtSIzhlR</a></p>&mdash; Benedict Evans (@benedictevans) <a href="https://twitter.com/benedictevans/status/694342874729545729?ref_src=twsrc%5Etfw">February 2, 2016</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+[<img align="right" src="images/1_bilotta-tweet.png">](https://twitter.com/jenna/status/838161631662092289)
+
 Beide nennen sich Softwareingenieur/in, und beide verdienen ähnlich viel in den frühes Berufsjahren. Aber Ingenieur/innen der 1. Art entwickeln sich mit der Zeit zu erfüllenderen und besser vergüteten Arbeit, sei es wertvolle kommerzielle Arbeit, bahnbrechende Open-Source Projekte, technische Führung oder hochwertige individuelle Beiträge.
 
 Ingenieur/innen der 1. Art finden Wege, um Informatik tiefer zu erlernen, sei es mit konventionellen Mitteln oder durch unermüdliches Lernen im Laufe der Karriere. Ingenieur/innen der 2. Art bleiben typischerweise an der Oberfläche, lernen bestimmte Tools und Technologien anstatt deren Grundlagen, und eignen sich nur dann neue Fähigkeiten an, wenn die Winde technologischer Trends sich drehen.
 
 Zur Zeit steigt die Anzahl der Berufseinsteiger in der Branche rasch an, während die Anzahl an Informatikabsolvent/innen relativ stabil bleibt. Dieses Überangebot an Ingenieur/innen der 2. Art reduziert inzwischen ihre Berufschancen und hält sie von der erfüllenderen Arbeit in der Branche fern. Egal ob du anstrebst, ein/e Ingenieur/in der 1. Art zu werden, oder mehr Jobsicherheit suchst: Informatik zu lernen ist der einzige zuverlässige Weg.
 
+Für Aktualisierungen am Leitfaden und allgemeine Informatiknachrichten und -ressourcen, wärst du vielleicht an der Mailingliste von Bradfield interessiert.
+
 ## Leitfäden der Themen
 
 ### Programmierung
+
+[<img align="right" src="images/2_sicp.jpg">](https://sarabander.github.io/sicp/html/index.xhtml)
 
 Die meisten Grundstudiengänge in der Informatik beginnen mit einer "Einführung" in die Computerprogrammierung. Die besten Versionen dieser Kurse richten sich nicht nur an Anfänger, sondern auch an diejenigen, die nützliche Konzepte und Programmiermodelle beim ersten Erlernen des Programmierens verpasst haben.
 
@@ -58,6 +66,12 @@ Abschließend eine Klarstellung: Dieser Leitfaden ist NICHT für absolute Progra
 
 ### Computerarchitektur
 
+[<img align="right" src="images/3_csapp.jpg">](http://csapp.cs.cmu.edu/3e/home.html)
+
+> Hardware ist die Plattform.
+
+_– Mike Acton, Engine Direktor von Insomniac Games_
+
 Computerarchitektur - manchmal auch "Computersysteme" oder "Computerorganisation" genannt - ist ein wichtiger erster Einblick in die Computertechnik unterhalb der Oberfläche von Software. Erfahrungsgemäß ist es das meist vernachlässigte Thema unter den autodidaktischen Ingenieur/innen.
 
 Unser Lieblingsbuch zur Einführung ist [Computer Systems: A Programmer's Perspective](http://csapp.cs.cmu.edu/3e/home.html), und ein typischer Einführungskurs in die Computerarchitektur, der auf dieses Lehrbuch stützt, würde das meiste aus Kapiteln 1-6 [abdecken](http://csapp.cs.cmu.edu/3e/courses.html).
@@ -74,13 +88,17 @@ Das Bestreben nach Einfachheit und Kohärenz von Nand2Tetris geht auf Kosten der
 
 Sobald du dich mit dem Inhalt von Nand2Tetris vertraut gemacht hast, empfehlen wir, entweder zu CS:APP zurückzukehren, oder ["Computer Organizsation and Design"](https://www.amazon.com/Computer-Organization-Design-Fifth-Architecture/dp/0124077269?pldnSite=1) von Patterson und Hennessy in Erwägung zu ziehen, ein ausgezeichnetes und mittlerweile klassisches Lehrbuch. Nicht jeder Abschnitt vom Buch ist essenziell, wir schlagen vor, [Kurs CS61C](https://inst.eecs.berkeley.edu/~cs61c/sp15/) "Great Ideas in Computer Architecture" von Berkeley für ausgewählte Lektüren zu verfolgen. Die Vorlesungsskripten und Übungen sind online verfügbar, und die vergangenen Vorlesungen befinden sich [auf dem Internet Archive](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iCl2-D-FS5mk0jFF6cYSJs_).
 
-> Hardware ist die Plattform.
-
-_– Mike Acton, Engine Direktor von Insomniac Games_
-
 ([Siehe seinen CppCon Vortrag an](https://www.youtube.com/watch?v=rX0ItVEVjHc))
 
 ### Algorithmen und Datenstrukturen
+
+[<img align="right" src="images/4_skiena.jpg">](https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1848000693/?pldnSite=1)
+[<img align="right" src="images/5_polya.jpg">](https://www.amazon.com/How-Solve-Mathematical-Princeton-Science/dp/069116407X/?pldnSite=1)
+
+> Ich habe nur eine Methode, die ich ausgiebig empfehle -- Denke nach bevor du schreibst.
+
+_— Richard Hamming_
+
 
 Wir sind uns mit jahrzehntelanger Weisheit einig, dass Vertrautheit mit gängigen Algorithmen und Datenstrukturen eine der meist ermächtigenden Aspekte der Informatikausbildung darstellt. Dies ist auch eine großartige Stelle, die eigene Problemlösungsfähigkeit zu trainieren, die sich in allen anderen Studienbereichen auszahlen wird.
 
@@ -92,11 +110,6 @@ Zur Übung bevorzugen wir, dass Studierende Aufgaben auf [Leetcode](https://leet
 
 Abschließend empfehlen wir [How to Solve it](https://www.amazon.com/How-Solve-Mathematical-Princeton-Science/dp/069116407X/?pldnSite=1) als hervorragenden und einzigartigen Leitfaden für die allgemeine Problemlösung, der für die Informatik ebenso anwendbar ist wir für die Mathematik.
 
-
-
-> Ich habe nur eine Methode, die ich ausgiebig empfehle -- Denke nach bevor du schreibst.
-
-_— Richard Hamming_
 
 ### Mathematik für Informatik
 
@@ -116,6 +129,8 @@ Für lineare Algebra schlagen wir vor, mit der Videoreihe [Essence of linear alg
 
 ### Betriebssysteme
 
+[<img align="right" src="images/6_ostep.jpeg">](https://pages.cs.wisc.edu/~remzi/OSTEP/)
+
 [Operating System Concepts](https://www.amazon.com/dp/1118063333/) (das "Dinosaurierbuch") und [Modern Operating Systems](https://www.amazon.com/dp/013359162X/) sind die Klassiker über Betriebssysteme. Beide haben aufgrund ihrer mangelnden Klarheit und allgemeinen Unfreundlichkeit für Studierende Kritik geerntet.
 
 _Operating Systems: Three Easy Pieces_ ist eine gute Alternative, die [online kostenlos verfügbar](https://pages.cs.wisc.edu/~remzi/OSTEP/) ist. Wir schätzen insbesondere die Struktur und Lesbarkeit des Buches, und halten die Übungsaufgaben für lohnend.
@@ -125,6 +140,8 @@ Nach OSTEP, empfehlen wir dir, dich mit den Designentscheidungen bestimmter Betr
 Eine gute Art, dein Verständnis über Betriebssysteme zu festigen, ist den Quellcode eines kleinen Kernels zu lesen und neue Funktionen hinzuzufügen. Eine Möglichkeit ist [xv6](https://pdos.csail.mit.edu/6.828/2016/xv6.html), eine Portierung von Unix V6 auf ANSI C und x86, die für einen Kurs am MIT gepflegt wird. OSTEP hat einen Anhang mit potentiellen [xv6 Praktika](https://pages.cs.wisc.edu/~remzi/OSTEP/lab-projects-xv6.pdf) voller großartiger Ideen für potentielle Projekte.
 
 ### [Computernetzwerke](Computernetzwerke)
+
+[<img align="right" src="images/7_top-down.jpg">](https://www.amazon.com/Computer-Networking-Top-Down-Approach-7th/dp/0133594149/?pldnSite=1)
 
 > Du kannst nicht in die Kristallkugel blicken und die Zukunft sehen. Was das Internet in Zukunft wird, ist das, was die Gesellschaft daraus macht.
 
@@ -137,6 +154,10 @@ Unser Lieblingsbuch zum Thema ist [Computer Networking: A Top-Down Approach](htt
 Für diejenigen, die Videovorlesungen bevorzugen, schlagen wir Stanfords Kurs [Introduction to Computer Networking](https://www.youtube.com/playlist?list=PLoCMsyE1cvdWKsLVyf6cPwCLDIZnOj0NS), damals verfügbar über Stanfords MOOC-Plattform Lagunita, aber leider jetzt nur noch als inoffizielle Playlisten auf YouTube verfügbar ist.
 
 ### Datenbanken
+
+[<img align="right" src="images/8_redbook.jpg">](http://www.redbook.io/)
+
+[<img align="right" src="images/9_data-reality.jpg">](https://www.amazon.com/Data-Reality-Perspective-Perceiving-Information/dp/1935504215)
 
 Es erfordert mehr Arbeit, autodidaktisch über Datenbanksysteme zu lernen als über andere Themen. Es ist ein relativ neues (i.e. ab den 1970-ern) Gebiet mit starkem kommerziellen Anreiz, dass gewisse Ideen unter Verschluss bleiben. Zudem haben viele Autoren exzellenter Lehrbücher bevorzugt, stattdessen Firmen beizutreten oder solche zu gründen.
 
@@ -152,6 +173,8 @@ Zum Abschluss ist Datenmodellierung ein vernachlässigter und schlecht unterrich
 
 ### Sprachen und Compiler
 
+[<img align="right" src="images/10_dragon.jpg">](https://www.amazon.com/Compilers-Principles-Techniques-Tools-2nd/dp/0321486811?pldnSite=1)
+
 > Sei kein/e Schema-F-Programmierer/in. Stattdessen, baue Werkzeug für Benutzer/innen und andere Programmierer/innen. Beachte die Geschichte der Textil- und Stahlindustrie: Willst du Maschinen und Werkzeug bauen, oder willst du diese bedienen?
 
 _-Ras Bodik am Anfang seines Compilerkurses_
@@ -160,11 +183,13 @@ Die meisten Programmierer/innen lernen Sprachen, während die meisten Informatik
 
 Unser empfohlener Einführungsbuch ist das exzellente [Crafting Interpreters](https://craftinginterpreters.com/contents.html) von Bob Nystrom, online kostenlos verfügbar. Es ist gut gegliedert, hochgradig unterhaltsam, und gut geeignet für diejenigen, deren Hauptziel es ist, Sprachen und Sprachwerkzeuge einfach besser zu verstehen. Wir schlagen vor, dir die Zeit zu nehmen, das komplette Buch durchzuarbeiten, und dich an den "Herausforderungen" zu versuchen, die dein Interesse wecken.
 
-Eine traditionellere Empfehlung ist [Compilers: Principles, Techniques & Tools](https://www.amazon.com/Compilers-Principles-Techniques-Tools-2nd/dp/0321486811?pldnSite=1), auch bekannt als "das Drachenbuch". Leider ist es nicht für das Selbststudium gedacht, sondern eher für Dozenten, die sich 1-2 Semester an Themen für ihre Kurse zusammenstellen.
+Eine traditionellere Empfehlung ist [Compilers: Principles, Techniques & Tools](https://www.amazon.com/Compilers-Principles-Techniques-Tools-2nd/dp/0321486811?pldnSite=1), auch bekannt als "das Drachenbuch". Leider ist es nicht für das Selbststudium gedacht, sondern eher für Dozent/innen, die sich 1-2 Semester an Themen für ihre Kurse zusammenstellen.
 
 Solltest du dich für das Drachenbuch entscheiden, es ist fast unabdingbar, die Themen herauszupicken, am besten mit Hilfe eines Mentors. Wenn schon, dann empfehlen sogar, das Drachenbuch als ergänzende Referenz für eine Videovorlesungsreihe zu verwenden. Unsere empfohlene Reihe ist die von [Alex Aiden auf edX](https://www.edx.org/course/compilers).
 
 ### Verteilte Systeme
+
+[<img align="right" src="images/11_ddia.jpg">](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable-ebook/dp/B06XPJML5D/?pldnSite=1)
 
 Während Computer zahlreicher geworden sind, haben sie sich auch verbreitet. Wo früher Unternehmen immer größere Mainframes angeschafft haben, ist es heute üblich, dass selbst sehr kleine Anwendungen auf mehreren Maschinen laufen. Bei verteile Systeme beschäftigt man sich mit den damit verbundenen Kompromissen.
 
@@ -208,20 +233,28 @@ Eine bestimmte Programmiersprache zu lernen befindet sich auf einer ganz anderen
 
 #### Was ist mit der trendigen Technologie X?
 
+Keine einzelne Technologie ist so wichtig, dass das Erlernen derer Anwendung ein Kernstück deiner Ausbildung sein sollte. Andererseits ist es toll, dass du dich für das eine Thema begeistern kannst. Der Trick ist, rückwärts von der bestimmten Technologie zum zugrundeliegenden Feld oder Konzept zurückzuarbeiten, und diese gründlich zu lernen, bevor du schaust, wie deine trendige Technologie ins Gesamtbild passt.
+
 #### Warum empfehlt ihr immer noch SICP?
 
-## Warum empfehlt ihr immer noch das Drachenbuch?
+Probiere es doch einfach aus. Manche Leute wirft SICP vom Hocker, eine Eigenschaft, die wenig andere Bücher teilen. Gefällt es dir nicht, kannst du immer noch etwas anderes probieren und vielleicht später zu SICP zurückkehren.
 
-## Wie komme ich an günstige Lehrbücher heran?
+#### Warum empfehlt ihr immer noch das Drachenbuch?
 
-## Wer hat das hier zusammengestellt?
+Das Drachenbuch ist immer noch die umfassendste Quelle für Compiler. Es hat keinen guten Ruf, in der Regel dafür, bestimmte Themen zu sehr zu betonen, die heutzutage nicht oft im Detail behandelt werden, z.B. Parsing. Die Sache ist, das Buch war nie dazu gedacht, von vorne bis hinten durchgearbeitet zu werden, sondern lediglich um genug Material für Dozent/innen zu liefern, um einen Kurs zusammenzustellen. Ebenso kann ein/e Autodidakt/in ihren Pfad durch das Buch wählen, oder, noch besser, den Vorschlägen folgen, die Dozent/innen von öffentlichen Kursen in ihren Kursbeschreibungen gemacht haben.
 
+#### Wie komme ich an günstige Lehrbücher heran?
+
+Viele der Lehrbücher, die wir empfehlen, sind dank der Größzügigkeit ihrer Autoren online kostenlos verfügbar. Für die, die es nicht sind, empfehlen wir gebrauchte Exemplare älterer Auflagen zu kaufen. Generell gilt, wenn mehrere Auflagen eines Lehrbuches existieren, ist wahrscheinlich eine ältere Auflage vollkommen ausreichend. Es ist bestimmt unwahrscheinlich, dass die neuste Version 10 Mal besser ist, als eine ältere, auch wenn das genau der Preisunterschied ist!
+
+#### Wer hat das hier zusammengestellt?
+
+Dieser Leitfaden wurde ursprünglich von [Oz Nova](https://twitter.com/oznova_) und [Myles Byrne](https://twitter.com/quackingduck) geschrieben, mit Aktualisierungen in 2020 von Oz. Er basiert auf unsere Erfahrung, mehr als 1000 meist autodidaktischen Ingenieur/innen und Bootcamp Absolvent/innen in den Grundlagen der Informatik zu unterrichten, sowohl in kleinen Gruppen in San Francisco und live online. Danke an alle unsere Studierenden für ihr kontinuierliches Feedback zu den Selbstlernquellen.
+
+Wir sind uns sicher, dass du dir mit genug Zeit und Motivation alles oben genannte selbst beibringen kannst. Wenn du jedoch ein intensives, strukturiertes, von Dozent/innen geleitetes Programm bevorzugst, wärst du vielleicht an unseren [Informatik Intensivkurs](https://bradfieldcs.com/csi/) interessiert. Wir empfehlen [NICHT](https://ozwrites.com/masters/), ein Masterstudium zu machen.
 
 ### Wer ist der Übersetzer?
 
 Ich heiße [Ahmed Omran](https://www.linkedin.com/in/ahmed-omran-5a1933129/), bin promovierter Physiker und Softwareingenieur für maschinelles Lernen bei Google in München. Ich fand diesen Leitfaden beim Übergang von Physik zu Software äußerst nützlich, und hoffe ihr findet ihn genauso hilfreich. Verbesserungsvorschläge sind jederzeit willkommen.
 
 Frohes Lernen!
-
-
-(In Bearbeitung)
