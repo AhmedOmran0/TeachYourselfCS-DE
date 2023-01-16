@@ -32,8 +32,6 @@ Ist die Vorstellung zu überwältigend, 9 Themen über mehrere Jahre selber durc
 
 Es gibt zwei Arten von Softwareingenieur/innen: Die einen, die Informatik ausreichend gut verstehen, um anspruchsvolle, innovative Arbeit zu leisten, und die anderen, die nur über die Runden kommen, weil sie mit einigen high-level Tools vertraut sind.
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr" align="right">The global SMS system does around 20bn messages a day. WhatsApp is now doing 42bn. With 57 engineers. <a href="https://t.co/zZrtSIzhlR">pic.twitter.com/zZrtSIzhlR</a></p>&mdash; Benedict Evans (@benedictevans) <a href="https://twitter.com/benedictevans/status/694342874729545729?ref_src=twsrc%5Etfw">February 2, 2016</a></blockquote>
-
 [<img align="right" src="images/1_bilotta-tweet.png">](https://twitter.com/jenna/status/838161631662092289)
 
 Beide nennen sich Softwareingenieur/in, und beide verdienen ähnlich viel in den frühes Berufsjahren. Aber Ingenieur/innen der 1. Art entwickeln sich mit der Zeit zu erfüllenderen und besser vergüteten Arbeit, sei es wertvolle kommerzielle Arbeit, bahnbrechende Open-Source Projekte, technische Führung oder hochwertige individuelle Beiträge.
