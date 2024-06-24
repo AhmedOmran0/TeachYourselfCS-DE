@@ -34,7 +34,7 @@ Es gibt zwei Arten von Softwareingenieur/innen: Die einen, die Informatik ausrei
 
 [<img align="right" src="images/1_bilotta-tweet.png">](https://twitter.com/jenna/status/838161631662092289)
 
-Beide nennen sich Softwareingenieur/in, und beide verdienen ähnlich viel in den frühes Berufsjahren. Aber Ingenieur/innen der 1. Art entwickeln sich mit der Zeit zu erfüllenderen und besser vergüteten Arbeit, sei es wertvolle kommerzielle Arbeit, bahnbrechende Open-Source Projekte, technische Führung oder hochwertige individuelle Beiträge.
+Beide nennen sich Softwareingenieur/in, und beide verdienen ähnlich viel in den frühen Berufsjahren. Aber Ingenieur/innen der 1. Art entwickeln sich mit der Zeit zu erfüllenderen und besser vergüteten Arbeit, sei es wertvolle kommerzielle Arbeit, bahnbrechende Open-Source Projekte, technische Führung oder hochwertige individuelle Beiträge.
 
 Ingenieur/innen der 1. Art finden Wege, um Informatik tiefer zu erlernen, sei es mit konventionellen Mitteln oder durch unermüdliches Lernen im Laufe der Karriere. Ingenieur/innen der 2. Art bleiben typischerweise an der Oberfläche, lernen bestimmte Tools und Technologien anstatt deren Grundlagen, und eignen sich nur dann neue Fähigkeiten an, wenn die Winde technologischer Trends sich drehen.
 
