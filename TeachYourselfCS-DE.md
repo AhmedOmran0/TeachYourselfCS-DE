@@ -1,21 +1,21 @@
 # Lerne selber Informatik
-Als autodidaktische/r Ingenieur/in oder Bootcamp-Absolvent/in schuldest du es dir selber, Informatik zu lernen. Zum Glück kannst du dir eine erstklassige Informatikausbildung verschaffen, ohne Jahre und ein kleines Vermögen in ein Studium zu investieren 💸.
+Als autodidaktische/r Ingenieur/in oder Bootcamp-Absolvent/in musst du es dir Informatik selber beibringen. Zum Glück kannst du dir eine erstklassige Informatikausbildung verschaffen, ohne Jahre und ein kleines Vermögen in ein Studium zu investieren 💸.
 
-Es gibt da draußen zahlreiche Ressourcen, manche davon besser als andere. Du brauchst jedoch nicht nochmal eine Liste von "200+ kostenlosen Online-Kursen". Du brauchst die Antwort auf folgende Fragen:
+Es gibt da draußen zahlreiche Ressourcen zum lernen, manche davon besser als andere. Dabei brauchst du jedoch nicht nochmal eine weitere Liste von "200+ kostenlosen Online-Kursen". Das was du brauchst, sind Antworten auf die Fragen:
 
 * **Welche Themen** soll ich lernen, und warum?
-* Was ist die **beste Lektüre oder Vorlesungsreihe** für jedes Thema?
+* Was sind die **besten Lektüren oder Vorlesungsreihen** für jedes Thema?
 
 Dieser Leitfaden versucht, diese Fragen endgültig zu beantworten.
 
-## TL;DR (Zusammenfassung)
+## Gliederung
 
-Lerne alle neun unten aufgeführten Themen etwa in der gegebenen Reihenfolge mithilfe des Lehrbuchs oder Videovorlesungen, idealerweise jedoch mit beiden. Rechne etwa 100-200 Lernstunden pro Thema ein, und besuche nochmal deine Favoriten im Laufe deiner Karriere 🚀.
+Am besten wäre es, wenn du alle unten aufgeführten Themen in der gegebenen Reihenfolge mithilfe der angegebenen Lernmaterialien lernst. Du musst mit ca. 100-200 Lernstunden pro Thema rechenen.
 
 | Thema                                                                   | Weshalb lernen?                                                                                                                                                                                            | Buch                                                         | Videovorlesung                      |
 | --------------                                                          | ---------------                                                                                                                                                                                            | ----                                                         | --------------                      |
-| **[Programmierung](#programmierung)**                                   | Sei nicht die Person, die etwas wie Rekursion "nie ganz verstanden" hat.                                                                                                                                   | *Structure and Interpretation of Computer Programs*          | Berkeley CS 61A von Brian Harvey    |
-| **[Computerarchitektur](#computerarchitektur)**                         | Ohne solides mentales Modell dafür, wie Computer tatsächlich funktionieren, werden all deine höhere Abstraktionen brüchig sein.                                                                            | *Computer Systems: A Programmer's Perspective*               | Berkeley CS 61C                     |
+| **[Programmierung](#programmierung)**                                   | Sei nicht die Person, die Rekursion "nie ganz verstanden" hat.                                                                                                                                             | *Structure and Interpretation of Computer Programs*          | Berkeley CS 61A von Brian Harvey    |
+| **[Computerarchitektur](#computerarchitektur)**                         | Ohne eine solide Darstellung, wie Computer tatsächlich funktionieren, werden all deine höhere Abstraktionen brüchig sein.                                                                                  | *Computer Systems: A Programmer's Perspective*               | Berkeley CS 61C                     |
 | **[Algorithmen und Datenstrukturen](#algorithmen-und-datenstrukturen)** | Wenn du nicht weißt, wie du allgegenwärtige Datenstrukturen wie Stapel, Warteschlangen, Bäume und Graphen verwenden sollst, wirst du schwierige Probleme nicht lösen können.                               | *The Algorithm Design Manual*                                | Vorlesungen von Steven Skiena       |
 | **[Mathematik für Informatik](#mathematik-für-informatik)**            | Informatik ist im Grunde ein Zweig der angewandten Mathematik, also wir dir das Mathe lernen einen Wettbewerbsvorteil verschaffen.                                                                         | *Mathematics for Computer Science*                           | MIT 6.042J von Tom Leighton         |
 | **[Betriebssysteme](#betriebssysteme)**                                 | Der Großteil von Code, den du schreibst, wird vom einem Betriebssystem ausgeführt. Du solltest also wissen, wie diese Systeme zusammenwirken.                                                              | *Operating Systems: Three Easy Pieces*                       | Berkeley CS 162                     |
@@ -26,7 +26,7 @@ Lerne alle neun unten aufgeführten Themen etwa in der gegebenen Reihenfolge mit
 
 ## Immer noch zu viel?
 
-Ist die Vorstellung zu überwältigend, 9 Themen über mehrere Jahre selber durcharbeiten zu müssen, empfehlen wir, du fokussierst dich nur auf zwei Bücher: *Computer Systems: A Programmer's Perspective* und *Designing Data Intensive Applications*. Erfahrungsgemäß bieten diese zwei Bücher eine unglaublich hohe Rendite auf die investierte Zeit, insbesondere für autodidaktische Ingenieur/innen und Bootcamp-Absolvent/innen, die an vernetzten Anwendungen arbeiten. Sie können auch eine "Einstiegsdroge" für die weiteren oben aufgelisteten Themen dienen.
+Ist dir die Vorstellung, 9 Themen über mehrere Jahre selber beizubringen, zu überwältigend, empfehlen wir, du fokoosierst dich nur auf zwei Bücher: *Computer Systems: A Programmer's Perspective* und *Designing Data Intensive Applications*. Erfahrungsgemäß bieten diese zwei Bücher einen unglaublich hohen Mehrwert, insbesondere für autodidaktische Ingenieur/innen und Bootcamp-Absolvent/innen, die an vernetzten Anwendungen arbeiten. Sie können auch als eine "Einstiegsdroge" für die weiteren oben aufgelisteten Themen dienen.
 
 ## Warum Informatik lernen?<a name="warum"></a>
 
@@ -107,7 +107,6 @@ Für die, die Videovorlesungen bevorzugen, hat [Skiena großzügigerweise seine 
 Zur Übung bevorzugen wir, dass Studierende Aufgaben auf [Leetcode](https://leetcode.com/) lösen. Diese sind tendenziell interessante Probleme mit ordentlichen begleitenden Lösungen und Diskussionen. Sie helfen auch, deinen Fortschritt anhand von Fragen zu messen, die häufig in technischen Interviews bei kompetitiven Softwareunternehmen gestellt werden. Wir empfehlen, etwa 100 beliebige leetcode Aufgaben im Rahmen des Studiums zu lösen.
 
 Abschließend empfehlen wir [How to Solve it](https://www.amazon.com/How-Solve-Mathematical-Princeton-Science/dp/069116407X/?pldnSite=1) als hervorragenden und einzigartigen Leitfaden für die allgemeine Problemlösung, der für die Informatik ebenso anwendbar ist wir für die Mathematik.
-
 
 ### Mathematik für Informatik
 
