@@ -116,7 +116,7 @@ _-John von Neumann-_
 
 In gewisser Weise ist die Informatik ein verwachsener Zweig der angewandten Mathematik. Obwohl viele Softwareingenieur/innen versuchen - mit mehr oder weniger Erfolg - dies zu ignorieren, ermutigen wir dich dazu, dich mit direktem Studium darauf einzulassen. Wenn du dies erfolgreich tust, hat du gegenüber denen, die es nicht tun, einen enormen Wettbewerbsvorteil.
 
-Der relevanteste Bereich der Mathematik für Informatik wir allgemein "diskrete Mathematik" genannt, wobei "diskret" das Gegenteil von "stetig" ist, und eine Sammlung interessanter mathematischer Themen außerhalb der Infinitesimalrechnung darstellt. Mit dieser vagen Definition macht es wenig Sinn, die gesamte Breite der "diskreten Mathematik" abzudecken. Ein realistischeres Ziel ist es, ein funktionierendes Verständnis der Logik, Kombinatorik und Wahrscheinlichkeitsrechnung, Mengentheorie, Graphentheorie, und etwas Zahlentheorie für die Kryptographie aufzubauen. Lineare Algebra ist ein zusätzliches lohnendes Studiengebiet, angesichts ihrer Bedeutung für Computergraphik und maschinelles Lernen.
+Der relevanteste Bereich der Mathematik für Informatik wird allgemein "diskrete Mathematik" genannt, wobei "diskret" das Gegenteil von "stetig" ist, und eine Sammlung interessanter mathematischer Themen außerhalb der Infinitesimalrechnung darstellt. Mit dieser vagen Definition macht es wenig Sinn, die gesamte Breite der "diskreten Mathematik" abzudecken. Ein realistischeres Ziel ist es, ein funktionierendes Verständnis der Logik, Kombinatorik und Wahrscheinlichkeitsrechnung, Mengentheorie, Graphentheorie, und etwas Zahlentheorie für die Kryptographie aufzubauen. Lineare Algebra ist ein zusätzliches lohnendes Studiengebiet, angesichts ihrer Bedeutung für Computergraphik und maschinelles Lernen.
 
 Unser empfohlener Ausgangspunkt für diskrete Mathematik ist das [Vorlesungsskript von László Lovász](https://cims.nyu.edu/~regev/teaching/discrete_math_fall_2005/dmbook.pdf). Prof. Lovász hat es geschafft, den Inhalt zugänglich und intuitiv zu gestalten, also dient dies als besserer Ausgangspunkt als formalere Texte.
 
@@ -156,7 +156,7 @@ Für diejenigen, die Videovorlesungen bevorzugen, schlagen wir Stanfords Kurs [I
 
 [<img align="right" src="images/9_data-reality.jpg">](https://www.amazon.com/Data-Reality-Perspective-Perceiving-Information/dp/1935504215)
 
-Es erfordert mehr Arbeit, autodidaktisch über Datenbanksysteme zu lernen als über andere Themen. Es ist ein relativ neues (i.e. ab den 1970-ern) Gebiet mit starkem kommerziellen Anreiz, dass gewisse Ideen unter Verschluss bleiben. Zudem haben viele Autoren exzellenter Lehrbücher bevorzugt, stattdessen Firmen beizutreten oder solche zu gründen.
+Es erfordert mehr Arbeit, autodidaktisch über Datenbanksysteme zu lernen als über andere Themen. Es ist ein relativ neues (i.e. ab den 1970-ern) Gebiet mit starkem kommerziellen Anreiz, weshalb gewisse Ideen unter Verschluss bleiben. Zudem haben viele Autoren exzellenter Lehrbücher bevorzugt, stattdessen Firmen beizutreten oder solche zu gründen.
 
 Unter diesen Umständen, empfehlen wir allen Selbstlernern Lehrbücher allgemein zu vermeiden, und mit Aufzeichnungen von CS 186 anzufangen, Joe Hellersteins Kurs über Datenbanken in Berkeley, und daraufhin langsam mit dem Lesen von Papern weiterzumachen.
 
@@ -182,7 +182,7 @@ Unser empfohlener Einführungsbuch ist das exzellente [Crafting Interpreters](ht
 
 Eine traditionellere Empfehlung ist [Compilers: Principles, Techniques & Tools](https://www.amazon.com/Compilers-Principles-Techniques-Tools-2nd/dp/0321486811?pldnSite=1), auch bekannt als "das Drachenbuch". Leider ist es nicht für das Selbststudium gedacht, sondern eher für Dozent/innen, die sich 1-2 Semester an Themen für ihre Kurse zusammenstellen.
 
-Solltest du dich für das Drachenbuch entscheiden, es ist fast unabdingbar, die Themen herauszupicken, am besten mit Hilfe eines Mentors. Wenn schon, dann empfehlen sogar, das Drachenbuch als ergänzende Referenz für eine Videovorlesungsreihe zu verwenden. Unsere empfohlene Reihe ist die von [Alex Aiden auf edX](https://www.edx.org/course/compilers).
+Solltest du dich für das Drachenbuch entscheiden, es ist fast unabdingbar, die Themen herauszupicken, am besten mit Hilfe eines Mentors. Wenn schon, dann empfehlen wir sogar, das Drachenbuch als ergänzende Referenz für eine Videovorlesungsreihe zu verwenden. Unsere empfohlene Reihe ist die von [Alex Aiden auf edX](https://www.edx.org/course/compilers).
 
 ### Verteilte Systeme
 
