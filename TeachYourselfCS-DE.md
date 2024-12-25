@@ -1,21 +1,21 @@
 # Lerne selber Informatik
-Als autodidaktische/r Ingenieur/in oder Bootcamp-Absolvent/in schuldest du es dir selber, Informatik zu lernen. Zum Glück kannst du dir eine erstklassige Informatikausbildung verschaffen, ohne Jahre und ein kleines Vermögen in ein Studium zu investieren 💸.
+Als autodidaktische/r Ingenieur/in oder Bootcamp-Absolvent/in musst du es dir Informatik selber beibringen. Zum Glück kannst du dir eine erstklassige Informatikausbildung verschaffen, ohne Jahre und ein kleines Vermögen in ein Studium zu investieren 💸.
 
-Es gibt da draußen zahlreiche Ressourcen, manche davon besser als andere. Du brauchst jedoch nicht nochmal eine Liste von "200+ kostenlosen Online-Kursen". Du brauchst die Antwort auf folgende Fragen:
+Es gibt da draußen zahlreiche Ressourcen zum lernen, manche davon besser als andere. Dabei brauchst du jedoch nicht nochmal eine weitere Liste von "200+ kostenlosen Online-Kursen". Das was du brauchst, sind Antworten auf die Fragen:
 
 * **Welche Themen** soll ich lernen, und warum?
-* Was ist die **beste Lektüre oder Vorlesungsreihe** für jedes Thema?
+* Was sind die **besten Lektüren oder Vorlesungsreihen** für jedes Thema?
 
 Dieser Leitfaden versucht, diese Fragen endgültig zu beantworten.
 
-## TL;DR (Zusammenfassung)
+## Gliederung
 
-Lerne alle neun unten aufgeführten Themen etwa in der gegebenen Reihenfolge mithilfe des Lehrbuchs oder Videovorlesungen, idealerweise jedoch mit beiden. Rechne etwa 100-200 Lernstunden pro Thema ein, und besuche nochmal deine Favoriten im Laufe deiner Karriere 🚀.
+Am besten wäre es, wenn du alle unten aufgeführten Themen in der gegebenen Reihenfolge mithilfe der angegebenen Lernmaterialien lernst. Du musst mit ca. 100-200 Lernstunden pro Thema rechenen.
 
 | Thema                                                                   | Weshalb lernen?                                                                                                                                                                                            | Buch                                                         | Videovorlesung                      |
 | --------------                                                          | ---------------                                                                                                                                                                                            | ----                                                         | --------------                      |
-| **[Programmierung](#programmierung)**                                   | Sei nicht die Person, die etwas wie Rekursion "nie ganz verstanden" hat.                                                                                                                                   | *Structure and Interpretation of Computer Programs*          | Berkeley CS 61A von Brian Harvey    |
-| **[Computerarchitektur](#computerarchitektur)**                         | Ohne solides mentales Modell dafür, wie Computer tatsächlich funktionieren, werden all deine höhere Abstraktionen brüchig sein.                                                                            | *Computer Systems: A Programmer's Perspective*               | Berkeley CS 61C                     |
+| **[Programmierung](#programmierung)**                                   | Sei nicht die Person, die Rekursion "nie ganz verstanden" hat.                                                                                                                                             | *Structure and Interpretation of Computer Programs*          | Berkeley CS 61A von Brian Harvey    |
+| **[Computerarchitektur](#computerarchitektur)**                         | Ohne eine solide Darstellung, wie Computer tatsächlich funktionieren, werden all deine höhere Abstraktionen brüchig sein.                                                                                  | *Computer Systems: A Programmer's Perspective*               | Berkeley CS 61C                     |
 | **[Algorithmen und Datenstrukturen](#algorithmen-und-datenstrukturen)** | Wenn du nicht weißt, wie du allgegenwärtige Datenstrukturen wie Stapel, Warteschlangen, Bäume und Graphen verwenden sollst, wirst du schwierige Probleme nicht lösen können.                               | *The Algorithm Design Manual*                                | Vorlesungen von Steven Skiena       |
 | **[Mathematik für Informatik](#mathematik-für-informatik)**            | Informatik ist im Grunde ein Zweig der angewandten Mathematik, also wir dir das Mathe lernen einen Wettbewerbsvorteil verschaffen.                                                                         | *Mathematics for Computer Science*                           | MIT 6.042J von Tom Leighton         |
 | **[Betriebssysteme](#betriebssysteme)**                                 | Der Großteil von Code, den du schreibst, wird vom einem Betriebssystem ausgeführt. Du solltest also wissen, wie diese Systeme zusammenwirken.                                                              | *Operating Systems: Three Easy Pieces*                       | Berkeley CS 162                     |
@@ -26,7 +26,7 @@ Lerne alle neun unten aufgeführten Themen etwa in der gegebenen Reihenfolge mit
 
 ## Immer noch zu viel?
 
-Ist die Vorstellung zu überwältigend, 9 Themen über mehrere Jahre selber durcharbeiten zu müssen, empfehlen wir, du fokussierst dich nur auf zwei Bücher: *Computer Systems: A Programmer's Perspective* und *Designing Data Intensive Applications*. Erfahrungsgemäß bieten diese zwei Bücher eine unglaublich hohe Rendite auf die investierte Zeit, insbesondere für autodidaktische Ingenieur/innen und Bootcamp-Absolvent/innen, die an vernetzten Anwendungen arbeiten. Sie können auch eine "Einstiegsdroge" für die weiteren oben aufgelisteten Themen dienen.
+Ist dir die Vorstellung, 9 Themen über mehrere Jahre selber beizubringen, zu überwältigend, empfehlen wir, du fokoosierst dich nur auf zwei Bücher: *Computer Systems: A Programmer's Perspective* und *Designing Data Intensive Applications*. Erfahrungsgemäß bieten diese zwei Bücher einen unglaublich hohen Mehrwert, insbesondere für autodidaktische Ingenieur/innen und Bootcamp-Absolvent/innen, die an vernetzten Anwendungen arbeiten. Sie können auch als eine "Einstiegsdroge" für die weiteren oben aufgelisteten Themen dienen.
 
 ## Warum Informatik lernen?<a name="warum"></a>
 
@@ -108,7 +108,6 @@ Zur Übung bevorzugen wir, dass Studierende Aufgaben auf [Leetcode](https://leet
 
 Abschließend empfehlen wir [How to Solve it](https://www.amazon.com/How-Solve-Mathematical-Princeton-Science/dp/069116407X/?pldnSite=1) als hervorragenden und einzigartigen Leitfaden für die allgemeine Problemlösung, der für die Informatik ebenso anwendbar ist wir für die Mathematik.
 
-
 ### Mathematik für Informatik
 
 > Wenn Leute nicht glauben, dass Mathematik einfach ist, liegt es nur daran, dass sie nicht wissen, wie kompliziert das Leben ist.
@@ -117,7 +116,7 @@ _-John von Neumann-_
 
 In gewisser Weise ist die Informatik ein verwachsener Zweig der angewandten Mathematik. Obwohl viele Softwareingenieur/innen versuchen - mit mehr oder weniger Erfolg - dies zu ignorieren, ermutigen wir dich dazu, dich mit direktem Studium darauf einzulassen. Wenn du dies erfolgreich tust, hat du gegenüber denen, die es nicht tun, einen enormen Wettbewerbsvorteil.
 
-Der relevanteste Bereich der Mathematik für Informatik wir allgemein "diskrete Mathematik" genannt, wobei "diskret" das Gegenteil von "stetig" ist, und eine Sammlung interessanter mathematischer Themen außerhalb der Infinitesimalrechnung darstellt. Mit dieser vagen Definition macht es wenig Sinn, die gesamte Breite der "diskreten Mathematik" abzudecken. Ein realistischeres Ziel ist es, ein funktionierendes Verständnis der Logik, Kombinatorik und Wahrscheinlichkeitsrechnung, Mengentheorie, Graphentheorie, und etwas Zahlentheorie für die Kryptographie aufzubauen. Lineare Algebra ist ein zusätzliches lohnendes Studiengebiet, angesichts ihrer Bedeutung für Computergraphik und maschinelles Lernen.
+Der relevanteste Bereich der Mathematik für Informatik wird allgemein "diskrete Mathematik" genannt, wobei "diskret" das Gegenteil von "stetig" ist, und eine Sammlung interessanter mathematischer Themen außerhalb der Infinitesimalrechnung darstellt. Mit dieser vagen Definition macht es wenig Sinn, die gesamte Breite der "diskreten Mathematik" abzudecken. Ein realistischeres Ziel ist es, ein funktionierendes Verständnis der Logik, Kombinatorik und Wahrscheinlichkeitsrechnung, Mengentheorie, Graphentheorie, und etwas Zahlentheorie für die Kryptographie aufzubauen. Lineare Algebra ist ein zusätzliches lohnendes Studiengebiet, angesichts ihrer Bedeutung für Computergraphik und maschinelles Lernen.
 
 Unser empfohlener Ausgangspunkt für diskrete Mathematik ist das [Vorlesungsskript von László Lovász](https://cims.nyu.edu/~regev/teaching/discrete_math_fall_2005/dmbook.pdf). Prof. Lovász hat es geschafft, den Inhalt zugänglich und intuitiv zu gestalten, also dient dies als besserer Ausgangspunkt als formalere Texte.
 
@@ -157,7 +156,7 @@ Für diejenigen, die Videovorlesungen bevorzugen, schlagen wir Stanfords Kurs [I
 
 [<img align="right" src="images/9_data-reality.jpg">](https://www.amazon.com/Data-Reality-Perspective-Perceiving-Information/dp/1935504215)
 
-Es erfordert mehr Arbeit, autodidaktisch über Datenbanksysteme zu lernen als über andere Themen. Es ist ein relativ neues (i.e. ab den 1970-ern) Gebiet mit starkem kommerziellen Anreiz, dass gewisse Ideen unter Verschluss bleiben. Zudem haben viele Autoren exzellenter Lehrbücher bevorzugt, stattdessen Firmen beizutreten oder solche zu gründen.
+Es erfordert mehr Arbeit, autodidaktisch über Datenbanksysteme zu lernen als über andere Themen. Es ist ein relativ neues (i.e. ab den 1970-ern) Gebiet mit starkem kommerziellen Anreiz, weshalb gewisse Ideen unter Verschluss bleiben. Zudem haben viele Autoren exzellenter Lehrbücher bevorzugt, stattdessen Firmen beizutreten oder solche zu gründen.
 
 Unter diesen Umständen, empfehlen wir allen Selbstlernern Lehrbücher allgemein zu vermeiden, und mit Aufzeichnungen von CS 186 anzufangen, Joe Hellersteins Kurs über Datenbanken in Berkeley, und daraufhin langsam mit dem Lesen von Papern weiterzumachen.
 
@@ -183,7 +182,7 @@ Unser empfohlener Einführungsbuch ist das exzellente [Crafting Interpreters](ht
 
 Eine traditionellere Empfehlung ist [Compilers: Principles, Techniques & Tools](https://www.amazon.com/Compilers-Principles-Techniques-Tools-2nd/dp/0321486811?pldnSite=1), auch bekannt als "das Drachenbuch". Leider ist es nicht für das Selbststudium gedacht, sondern eher für Dozent/innen, die sich 1-2 Semester an Themen für ihre Kurse zusammenstellen.
 
-Solltest du dich für das Drachenbuch entscheiden, es ist fast unabdingbar, die Themen herauszupicken, am besten mit Hilfe eines Mentors. Wenn schon, dann empfehlen sogar, das Drachenbuch als ergänzende Referenz für eine Videovorlesungsreihe zu verwenden. Unsere empfohlene Reihe ist die von [Alex Aiden auf edX](https://www.edx.org/course/compilers).
+Solltest du dich für das Drachenbuch entscheiden, es ist fast unabdingbar, die Themen herauszupicken, am besten mit Hilfe eines Mentors. Wenn schon, dann empfehlen wir sogar, das Drachenbuch als ergänzende Referenz für eine Videovorlesungsreihe zu verwenden. Unsere empfohlene Reihe ist die von [Alex Aiden auf edX](https://www.edx.org/course/compilers).
 
 ### Verteilte Systeme
 
