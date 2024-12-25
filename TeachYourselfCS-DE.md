@@ -1,7 +1,7 @@
 # Lerne selber Informatik
 Als autodidaktische/r Ingenieur/in oder Bootcamp-Absolvent/in musst du es dir Informatik selber beibringen. Zum Glück kannst du dir eine erstklassige Informatikausbildung verschaffen, ohne Jahre und ein kleines Vermögen in ein Studium zu investieren 💸.
 
-Es gibt da draußen zahlreiche Ressourcen zum lernen, manche davon besser als andere. Dabei brauchst du jedoch nicht nochmal eine weitere Liste von "200+ kostenlosen Online-Kursen". Das was du brauchst, sind Antworten auf die Fragen:
+Es gibt da draußen zahlreiche Ressourcen zum Lernen, manche davon besser als andere. Dabei brauchst du jedoch keine weitere Liste von "200+ kostenlosen Online-Kursen". Was du brauchst, sind Antworten auf die Fragen:
 
 * **Welche Themen** soll ich lernen, und warum?
 * Was sind die **besten Lektüren oder Vorlesungsreihen** für jedes Thema?
@@ -10,7 +10,7 @@ Dieser Leitfaden versucht, diese Fragen endgültig zu beantworten.
 
 ## Gliederung
 
-Am besten wäre es, wenn du alle unten aufgeführten Themen in der gegebenen Reihenfolge mithilfe der angegebenen Lernmaterialien lernst. Du musst mit ca. 100-200 Lernstunden pro Thema rechenen.
+Am besten wäre es, wenn du alle unten aufgeführten Themen in der gegebenen Reihenfolge mithilfe der angegebenen Lernmaterialien lernst. Du musst mit ca. 100-200 Lernstunden pro Thema rechnen. Besuche nochmal deine Favoriten im Laufe deiner Karriere 🚀.
 
 | Thema                                                                   | Weshalb lernen?                                                                                                                                                                                            | Buch                                                         | Videovorlesung                      |
 | --------------                                                          | ---------------                                                                                                                                                                                            | ----                                                         | --------------                      |
@@ -26,7 +26,7 @@ Am besten wäre es, wenn du alle unten aufgeführten Themen in der gegebenen Rei
 
 ## Immer noch zu viel?
 
-Ist dir die Vorstellung, 9 Themen über mehrere Jahre selber beizubringen, zu überwältigend, empfehlen wir, du fokoosierst dich nur auf zwei Bücher: *Computer Systems: A Programmer's Perspective* und *Designing Data Intensive Applications*. Erfahrungsgemäß bieten diese zwei Bücher einen unglaublich hohen Mehrwert, insbesondere für autodidaktische Ingenieur/innen und Bootcamp-Absolvent/innen, die an vernetzten Anwendungen arbeiten. Sie können auch als eine "Einstiegsdroge" für die weiteren oben aufgelisteten Themen dienen.
+Ist dir die Vorstellung, 9 Themen über mehrere Jahre selber beizubringen, zu überwältigend, empfehlen wir, du fokussierst dich nur auf zwei Bücher: *Computer Systems: A Programmer's Perspective* und *Designing Data Intensive Applications*. Erfahrungsgemäß bieten diese zwei Bücher einen unglaublich hohen Mehrwert, insbesondere für autodidaktische Ingenieur/innen und Bootcamp-Absolvent/innen, die an vernetzten Anwendungen arbeiten. Sie können auch als eine "Einstiegsdroge" für die weiteren oben aufgelisteten Themen dienen.
 
 ## Warum Informatik lernen?<a name="warum"></a>
 
