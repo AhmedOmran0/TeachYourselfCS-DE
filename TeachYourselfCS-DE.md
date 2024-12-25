@@ -253,6 +253,6 @@ Wir sind uns sicher, dass du dir mit genug Zeit und Motivation alles oben genann
 
 ### Wer ist der Übersetzer?
 
-Ich heiße [Ahmed Omran](https://www.linkedin.com/in/ahmed-omran-5a1933129/), bin promovierter Physiker und Softwareingenieur für maschinelles Lernen bei Google in München. Ich fand diesen Leitfaden beim Übergang von Physik zu Software äußerst nützlich, und hoffe ihr findet ihn genauso hilfreich. Verbesserungsvorschläge sind jederzeit willkommen.
+Ich heiße [Ahmed Omran](https://www.linkedin.com/in/ahmed-omran-5a1933129/), bin promovierter Physiker und Softwareentwickler bei Google in München, wo ich mich mit KI-Werkzeug für interne Entwicklertools beschäftige. Diesen Leitfaden fand ich beim Übergang von Physik zu Software äußerst nützlich, und hoffe ihr findet ihn genauso hilfreich. Verbesserungsvorschläge sind jederzeit willkommen.
 
 Frohes Lernen!
